@@ -1,0 +1,26 @@
+body{
+   gap: 200px;
+   font-size: 10px;
+}
+
+
+select{
+  
+    font-size: 30px;
+    padding: px;
+    background-color: rgb(81, 81, 209);
+    ;
+    color: white;
+    border-radius: 5px;
+}
+thead{
+    background-color:rgb(81, 81, 209);
+    color: white;
+}
+span{
+  padding-left: 300px;
+}
+.resultado {
+  display: flex;
+  padding-left: 200px;
+}
